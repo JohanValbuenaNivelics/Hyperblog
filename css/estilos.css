@@ -44,7 +44,9 @@ body {
     font-size: 0.8em;
 }
 
-#post {
-    background: white;
+#footer {
+    color: rgb(240, 222, 217);
+    background: rgb(49, 49, 49);
     padding: 1em;
+    text-align: center;
 }
